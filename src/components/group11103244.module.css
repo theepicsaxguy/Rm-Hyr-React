@@ -1,0 +1,20 @@
+.Group11103244 {
+  width: 125px;
+  height: 125px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: var(--dl-color-default-seconde0d2c);
+}
+.image {
+  top: 24px;
+  left: 23px;
+  width: 78px;
+  height: 78px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}

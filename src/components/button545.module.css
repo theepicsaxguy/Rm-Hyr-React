@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  position: relative;
+}
+.button545 {
+  width: 200px;
+  height: 64px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  text-decoration: none;
+}
+.image {
+  top: 0px;
+  left: 0px;
+  width: 200px;
+  height: 64px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(239, 38, 38, 1);
+}
+.text {
+  top: 18px;
+  left: 35px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
